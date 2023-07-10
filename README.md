@@ -29,10 +29,18 @@ After setting up the environment, you can move into the corresponding folders to
 ## Citation
 If you find our paper and repository useful, please cite us in your paper:
 ```
-@article{li2023pre,
-  title={Pre-training Multi-party Dialogue Models with Latent Discourse Inference},
-  author={Li, Yiyang and Huang, Xinting and Bi, Wei and Zhao, Hai},
-  journal={arXiv preprint arXiv:2305.15175},
-  year={2023}
+@inproceedings{li-etal-2023-pre,
+    title = "Pre-training Multi-party Dialogue Models with Latent Discourse Inference",
+    author = "Li, Yiyang  and
+      Huang, Xinting  and
+      Bi, Wei  and
+      Zhao, Hai",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.533",
+    pages = "9584--9599",
 }
 ```
